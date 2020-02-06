@@ -1,0 +1,6 @@
+name: EdgeRPG
+main: edge.rpg.main.Main
+version: 1.0
+author: Edge_Tide
+commands:
+  jobs:
